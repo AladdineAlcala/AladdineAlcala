@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AladdineAlcala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aladdine Alcala
+- 👀 I’m interested in App Developtment specializing on .Net Technologies (API,MVC ,Web Services and Frontend Developtment using Angular and AngularJS)
+- 🌱 I’m currently learning on ReactJs
+- 💞️ I’m looking to collaborate on your challenging projects
+- 📫 You can reach me on my email aladdinealcala@yahoo.com
 
 <!---
 AladdineAlcala/AladdineAlcala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
